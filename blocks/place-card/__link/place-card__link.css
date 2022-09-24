@@ -1,0 +1,19 @@
+.place-card__link {
+    margin: 0;
+    max-width: 456px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration-line: underline;
+    color: white;
+}
+
+.place-card__link:hover {
+    opacity: 0.8;
+}
+
+@media screen and (max-width: 767px) {
+    .place-card__link {
+        padding-left: 16px;
+    }
+}

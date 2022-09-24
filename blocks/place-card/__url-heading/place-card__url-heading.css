@@ -1,0 +1,16 @@
+.place-card__url-heading {
+    margin: 0;
+    padding-bottom: 12px;
+    max-width: 456px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 2px;
+    color: #AAAAAA;
+}
+
+@media screen and (max-width: 767px) {
+    .place-card__url-heading {
+        padding-left: 16px;
+    }
+}
