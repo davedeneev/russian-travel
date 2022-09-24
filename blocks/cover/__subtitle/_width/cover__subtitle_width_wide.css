@@ -1,0 +1,5 @@
+@media screen and (max-width: 767px) {
+    .cover__subtitle_width_wide {
+        display: none;
+    }
+}
