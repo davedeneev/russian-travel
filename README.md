@@ -1,6 +1,6 @@
 # Проект: Путешествие по России
 
-**Проект доступен по ссылке на** [GitHub Pages]()
+**Проект доступен по ссылке на** [GitHub Pages](https://davedeneev.github.io/russian-travel/index.html)
 
 ### Описание
 
