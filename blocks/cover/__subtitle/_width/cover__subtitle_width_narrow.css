@@ -1,9 +1,0 @@
-.cover__subtitle_width_narrow {
-    display: none;
-}
-
-@media screen and (max-width: 767px) {
-    .cover__subtitle_width_narrow {
-        display: inline-block;
-    }
-}
